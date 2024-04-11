@@ -1,0 +1,43 @@
+/* XPM */
+static char *escape_tile_xpm[] = {
+/* columns rows colors chars-per-pixel */
+"32 32 5 1",
+"  c None",
+". c #00008B", /* Azul oscuro para el contorno */
+"X c #0000FF", /* Azul brillante para el interior */
+"o c #4169E1", /* Azul real para detalles */
+"O c #ADD8E6", /* Azul claro para reflejos */
+/* pixels */
+"................................",
+"................................",
+"................................",
+"................................",
+"...........oooooooooo...........",
+".........oXXXXXXXXXXXXo.........",
+"........oXXXXXXXXXXXXXXo........",
+".......oXXXXXooooooXXXXXo.......",
+"......oXXXXXo......oXXXXXo......",
+".....oXXXXXo........oXXXXXo.....",
+"....oXXXXXo..........oXXXXXo....",
+"...oXXXXXo............oXXXXXo...",
+"..oXXXXXo..............oXXXXXo..",
+".oXXXXXo................oXXXXXo.",
+".oXXXXXo................oXXXXXo.",
+"oXXXXXo..................oXXXXXo",
+"oXXXXXo..................oXXXXXo",
+"oXXXXXo..................oXXXXXo",
+"oXXXXXo..................oXXXXXo",
+"oXXXXXo..................oXXXXXo",
+".oXXXXXo................oXXXXXo.",
+".oXXXXXo................oXXXXXo.",
+"..oXXXXXo..............oXXXXXo..",
+"...oXXXXXo............oXXXXXo...",
+"....oXXXXXo..........oXXXXXo....",
+".....oXXXXXo........oXXXXXo.....",
+"......oXXXXXo......oXXXXXo......",
+".......oXXXXXooooooXXXXXo.......",
+"........oXXXXXXXXXXXXXXo........",
+".........oXXXXXXXXXXXXo.........",
+"...........oooooooooo...........",
+"................................"
+};

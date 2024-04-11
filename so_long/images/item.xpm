@@ -1,0 +1,42 @@
+/* XPM */
+static char *collectible_xpm[] = {
+/* columns rows colors chars-per-pixel */
+"32 32 4 1",
+"  c None",
+". c #008000", /* Verde oscuro para el contorno */
+"X c #00FF00", /* Verde brillante para el interior */
+"o c #ADFF2F", /* Verde claro para los reflejos */
+/* pixels */
+"................................",
+"................................",
+"................................",
+"...............X................",
+"..............XXX...............",
+".............XXXXX..............",
+"............XXXXXXX.............",
+"...........XXXXXXXXX............",
+".........XXXoooXoooXX...........",
+".........XXXXXXXXXXXXX..........",
+"........XXXXXXXXXXXXXXX.........",
+".......XXXXXXXXXXXXXXXXX........",
+"......XXXXXXXXXXXXXXXXXXX.......",
+".....XXXXXXXXXXXXXXXXXXXXX......",
+"....XXXXXXXXXXXXXXXXXXXXXXX.....",
+".....XXXXXXXXXXXXXXXXXXXXX......",
+"......XXXXXXXXXXXXXXXXXXX.......",
+".......XXXXXXXXXXXXXXXXX.......",
+"........XXXXXXXXXXXXXXX.........",
+".........XXXXXXXXXXXXX..........",
+".........XXXoooXoooXX...........",
+"...........XXXXXXXXX............",
+"............XXXXXXX.............",
+".............XXXXX..............",
+"..............XXX...............",
+"...............X................",
+"................................",
+"................................",
+"................................",
+"................................",
+"................................",
+"................................"
+};
